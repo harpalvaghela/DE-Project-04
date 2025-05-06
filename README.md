@@ -8,6 +8,7 @@
 In today’s data-driven world, businesses must efficiently ingest and transform large volumes of structured data while ensuring reliability and transparency in the pipeline. This project solves the challenge of loading on-premises data incrementally into Microsoft Fabric, transforming it for analytics, and sending automated notifications upon successful refresh.
 
 ---
+
 ### ETL Workflow
 ![ETLWorkflow](./ETLWorkflow.png)
 
