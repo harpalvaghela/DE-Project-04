@@ -29,7 +29,9 @@ In today’s data-driven world, businesses must efficiently ingest and transform
 
 ## Task 1: Incremental Data Loading, SCDType1 and Notifications
 
-###### Steps: On-Premises Data Ingestion
+###### Steps: 
+
+- On-Premises Data Ingestion
 - Connect to source using On-Prem Gateway.
 - Load into Fabric Lakehouse.
 - Perform SCD Type 1 using Fabric Notebooks.
