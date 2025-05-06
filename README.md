@@ -27,7 +27,7 @@ In today’s data-driven world, businesses must efficiently ingest and transform
 
 ### 🧩 Project Steps
 
-## Task 1: Project_4_Incremental Data Loading, SCDType1 and Notifications
+## Task 1: Incremental Data Loading, SCDType1 and Notifications
 
 ###### Steps: On-Premises Data Ingestion
 - Connect to source using On-Prem Gateway.
