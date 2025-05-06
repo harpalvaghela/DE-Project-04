@@ -1,5 +1,5 @@
 # Project 4: Fabric Data Pipeline
-## Task 1: Project_4_Incremental Data Loading, SCDType1 and Notifications
+## Task 1: Incremental Data Loading, SCDType1 and Notifications
 ## Task 2: Sales Data Modeling and Reporting Pipeline using Microsoft Fabric
 
 
