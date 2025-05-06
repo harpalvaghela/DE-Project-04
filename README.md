@@ -62,6 +62,10 @@ In today’s data-driven world, businesses must efficiently ingest and transform
 - Power BI dashboards with visuals 
 - GitHub repository with code and documentation
 
+---
+
+### Dashboard
+![Dashboard](./Dashboard.png)
   
 ---
 
