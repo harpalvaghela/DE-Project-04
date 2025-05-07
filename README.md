@@ -10,7 +10,7 @@ In today’s data-driven world, businesses must efficiently ingest and transform
 ---
 
 ### ETL Workflow
-![ETLWorkflow](./ETLWorkflow.png)
+![ETL_Flow](./ETL_Flow.png)
 
 ---
 ### 🛠️ Technologies Used
